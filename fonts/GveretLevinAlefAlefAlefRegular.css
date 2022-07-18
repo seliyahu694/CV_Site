@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GveretLevinAlefAlefAlefRegular';
+    src: url('fonts/GveretLevinAlefAlefAlefRegular.eot');
+    src: url('fonts/GveretLevinAlefAlefAlefRegular.eot') format('embedded-opentype'),
+         url('fonts/GveretLevinAlefAlefAlefRegular.woff2') format('woff2'),
+         url('fonts/GveretLevinAlefAlefAlefRegular.woff') format('woff'),
+         url('fonts/GveretLevinAlefAlefAlefRegular.ttf') format('truetype'),
+         url('fonts/GveretLevinAlefAlefAlefRegular.svg#GveretLevinAlefAlefAlefRegular') format('svg');
+}
