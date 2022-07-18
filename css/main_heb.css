@@ -1161,12 +1161,12 @@ h4{
 }
 .social-icon li {
   display: inline-block;
-  padding: 10px;
+  padding: 6px;
 }
 
 .social-icon li a {
     color: #fff;
-    line-height: 50px;
+    line-height: 60px;
     font-size: 30px;
     margin: 15px 6px;
     transition: all 0.3s ease-in-out 0s;
